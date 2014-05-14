@@ -1,0 +1,23 @@
+{
+  "name": "DataTables.RowReordering",
+  "version": "1.2.1",
+  "author": "Jovan Popovic",
+  "homepage": "https://github.com/danawoodman/DataTables.RowReorder",
+  "main": "DataTables.RowReordering.js",
+  "keywords": [
+    "DataTables",
+    "reordering"
+  ],
+  "copyright": "2013 Jovan Popovic",
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "datatables": "1.9"
+  }
+}
